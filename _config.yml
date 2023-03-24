@@ -86,17 +86,17 @@ author:
   location         : "Stanford University"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=u9ZQdTwAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=u9ZQdTwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://msl.stanford.edu/people/timchen"
+  uri              : # "https://msl.stanford.edu/people/timchen"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chengine"
+  github           : # "chengine"
   google_plus      :
   keybase          :
   instagram        :
